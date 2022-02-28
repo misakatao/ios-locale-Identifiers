@@ -1,0 +1,3888 @@
+[
+    {
+        "locale_key": "bs",
+        "Marathi": "Bosnian",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.6357600,
+            "longitude": 77.2244500
+        }
+    },
+    {
+        "locale_key": "ee_TG",
+        "Marathi": "Ewe (Togo)",
+        "capital": {
+            "name": "Lome",
+            "latitude": 8.6259267,
+            "longitude": 0.8325041
+        }
+    },
+    {
+        "locale_key": "ms",
+        "Marathi": "Malay",
+        "capital": {
+            "name": "Kuala Lumpur",
+            "latitude": 3.1412,
+            "longitude": 101.68653
+        }
+    },
+    {
+        "locale_key": "kam_KE",
+        "Marathi": "Kamba (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.28333,
+            "longitude": 36.81667
+        }
+    },
+    {
+        "locale_key": "mt",
+        "Marathi": "Maltese",
+        "capital": {
+            "name": "Il-Belt Valletta",
+            "latitude": 35.8997192,
+            "longitude": 14.51472
+        }
+    },
+    {
+        "locale_key": "ha",
+        "Marathi": "Hausa",
+        "capital": {
+            "name": "Kano",
+            "latitude": 12.000000,
+            "longitude": 8.516667
+        }
+    },
+    {
+        "locale_key": "es_HN",
+        "Marathi": "Spanish (Honduras)",
+        "capital": {
+            "name": "Tegucigalpa",
+            "latitude": 14.081999,
+            "longitude": -87.202438
+        }
+    },
+    {
+        "locale_key": "ml_IN",
+        "Marathi": "Malayalam (India)",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.6357600,
+            "longitude": 77.2244500
+        }
+    },
+    {
+        "locale_key": "ro_MD",
+        "Marathi": "Romanian (Moldova)",
+        "capital": {
+            "name": "Chisinau",
+            "latitude": 47.003670,
+            "longitude": 28.907089
+        }
+    },
+    {
+        "locale_key": "kab_DZ",
+        "Marathi": "Kabyle (Algeria)",
+        "capital": {
+            "name": "Algiers",
+            "latitude": 36.737232,
+            "longitude": 3.086472
+        }
+    },
+    {
+        "locale_key": "he",
+        "Marathi": "Hebrew",
+        "capital": {
+            "name": "Jerusalem",
+            "latitude": 31.771959,
+            "longitude": 35.217018
+        }
+    },
+    {
+        "locale_key": "es_CO",
+        "Marathi": "Spanish (Colombia)",
+        "capital": {
+            "name": "Bogota",
+            "latitude": 4.624335,
+            "longitude": -74.063644
+        }
+    },
+    {
+        "locale_key": "my",
+        "Marathi": "Burmese",
+        "capital": {
+            "name": "Yangon",
+            "latitude": 16.871311,
+            "longitude": 96.199379
+        }
+    },
+    {
+        "locale_key": "es_PA",
+        "Marathi": "Spanish (Panama)",
+        "capital": {
+            "name": "Panama",
+            "latitude": 8.983333,
+            "longitude": -79.516670
+        }
+    },
+    {
+        "locale_key": "az_Latn",
+        "Marathi": "Azerbaijani (Latin)",
+        "capital": {
+            "name": "Baku",
+            "latitude": 40.409264,
+            "longitude": 49.867092
+        }
+    },
+    {
+        "locale_key": "mer",
+        "Marathi": "Meru",
+        "capital": {
+            "name": "Meru",
+            "latitude": 0.053543,
+            "longitude": 37.648399
+        }
+    },
+    {
+        "locale_key": "en_NZ",
+        "Marathi": "English (New Zealand)",
+        "capital": {
+            "name": "Auckland",
+            "latitude": -36.848461,
+            "longitude": 174.763336
+        }
+    },
+    {
+        "locale_key": "xog_UG",
+        "Marathi": "Soga (Uganda)",
+        "capital": {
+            "name": "Kampala",
+            "latitude": 0.347596,
+            "longitude": 32.582520
+        }
+    },
+    {
+        "locale_key": "sg",
+        "Marathi": "Sango",
+        "capital": {
+            "name": "Kampala",
+            "latitude": 0.347596,
+            "longitude": 32.582520
+        }
+    },
+    {
+        "locale_key": "fr_GP",
+        "Marathi": "French (Guadeloupe)",
+        "capital": {
+            "name": "Baie-Mahault",
+            "latitude": 16.270000,
+            "longitude": -61.580002
+        }
+    },
+    {
+        "locale_key": "sr_Cyrl_BA",
+        "Marathi": "Serbian (Cyrillic, Bosnia and Herzegovina)",
+        "capital": {
+            "name": "Belgrade",
+            "latitude": 44.787197,
+            "longitude": 20.457273
+        }
+    },
+    {
+        "locale_key": "hi",
+        "Marathi": "Hindi",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.644800,
+            "longitude": 77.216721
+        }
+    },
+    {
+        "locale_key": "fil_PH",
+        "Marathi": "Filipino (Philippines)",
+        "capital": {
+            "name": "Manila",
+            "latitude": 14.599512,
+            "longitude": 120.984222
+        }
+    },
+    {
+        "locale_key": "lt_LT",
+        "Marathi": "Lithuanian (Lithuania)",
+        "capital": {
+            "name": "Vilnius",
+            "latitude": 54.687157,
+            "longitude": 25.279652
+        }
+    },
+    {
+        "locale_key": "si",
+        "Marathi": "Sinhala",
+        "capital": {
+            "name": "Colombo",
+            "latitude": 6.927079,
+            "longitude": 79.861244
+        }
+    },
+    {
+        "locale_key": "en_MT",
+        "Marathi": "English (Malta)",
+        "capital": {
+            "name": "Valletta",
+            "latitude": 35.897789,
+            "longitude": 14.514106
+        }
+    },
+    {
+        "locale_key": "si_LK",
+        "Marathi": "Sinhala (Sri Lanka)",
+        "capital": {
+            "name": "Colombo",
+            "latitude": 6.927079,
+            "longitude": 79.861244
+        }
+    },
+    {
+        "locale_key": "luo_KE",
+        "Marathi": "Luo (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "it_CH",
+        "Marathi": "Italian (Switzerland)",
+        "capital": {
+            "name": "Geneva",
+            "latitude": 46.204391,
+            "longitude": 6.143158
+        }
+    },
+    {
+        "locale_key": "teo",
+        "Marathi": "Teso"
+    },
+    {
+        "locale_key": "mfe",
+        "Marathi": "Morisyen"
+    },
+    {
+        "locale_key": "sk",
+        "Marathi": "Slovak",
+        "capital": {
+            "name": "Bratislava",
+            "latitude": 48.148598,
+            "longitude": 17.107748
+        }
+    },
+    {
+        "locale_key": "uz_Cyrl_UZ",
+        "Marathi": "Uzbek (Cyrillic, Uzbekistan)",
+        "capital": {
+            "name": "Tashkent",
+            "latitude": 41.311081,
+            "longitude": 69.240562
+        }
+    },
+    {
+        "locale_key": "sl",
+        "Marathi": "Slovenian",
+        "capital": {
+            "name": "Ljubljana",
+            "latitude": 46.056946,
+            "longitude": 14.505751
+        }
+    },
+    {
+        "locale_key": "rm_CH",
+        "Marathi": "Romansh (Switzerland)",
+        "capital": {
+            "name": "Geneva",
+            "latitude": 46.204391,
+            "longitude": 6.143158
+        }
+    },
+    {
+        "locale_key": "az_Cyrl_AZ",
+        "Marathi": "Azerbaijani (Cyrillic, Azerbaijan)",
+        "capital": {
+            "name": "Baku",
+            "latitude": 40.409264,
+            "longitude": 49.867092
+        }
+    },
+    {
+        "locale_key": "fr_GQ",
+        "Marathi": "French (Equatorial Guinea)",
+        "capital": {
+            "name": "Conakry",
+            "latitude": 9.509167,
+            "longitude": -13.712222
+        }
+    },
+    {
+        "locale_key": "kde",
+        "Marathi": "Makonde",
+        "capital": {
+            "name": "Harare",
+            "latitude": -17.824858,
+            "longitude": 31.053028
+        }
+    },
+    {
+        "locale_key": "sn",
+        "Marathi": "Shona",
+        "capital": {
+            "name": "Harare",
+            "latitude": -17.824858,
+            "longitude": 31.053028
+        }
+    },
+    {
+        "locale_key": "cgg_UG",
+        "Marathi": "Chiga (Uganda)",
+        "capital": {
+            "name": "Kampala",
+            "latitude": 0.347596,
+            "longitude": 32.582520
+        }
+    },
+    {
+        "locale_key": "so",
+        "Marathi": "Somali",
+        "capital": {
+            "name": "Mogadishu",
+            "latitude": 2.046934,
+            "longitude": 45.318161
+        }
+    },
+    {
+        "locale_key": "fr_RW",
+        "Marathi": "French (Rwanda)",
+        "capital": {
+            "name": "Kacyiru",
+            "latitude": -1.935114,
+            "longitude": 30.082111
+        }
+    },
+    {
+        "locale_key": "es_SV",
+        "Marathi": "Spanish (El Salvador)",
+        "capital": {
+            "name": "San Salvador",
+            "latitude": 13.6893501,
+            "longitude": -89.1871796
+        }
+    },
+    {
+        "locale_key": "mas_TZ",
+        "Marathi": "Masai (Tanzania)",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "en_MU",
+        "Marathi": "English (Mauritius)",
+        "capital": {
+            "name": "Port Louis",
+            "latitude": -20.166666,
+            "longitude": 57.499998
+        }
+    },
+    {
+        "locale_key": "sq",
+        "Marathi": "Albanian",
+        "capital": {
+            "name": "Tirana",
+            "latitude": 41.327953,
+            "longitude": 19.819025
+        }
+    },
+    {
+        "locale_key": "hr",
+        "Marathi": "Croatian",
+        "capital": {
+            "name": "Zagreb",
+            "latitude": 45.815399,
+            "longitude": 15.966568
+        }
+    },
+    {
+        "locale_key": "sr",
+        "Marathi": "Serbian",
+        "capital": {
+            "name": "Belgrade",
+            "latitude": 44.787197,
+            "longitude": 20.457273
+        }
+    },
+    {
+        "locale_key": "en_PH",
+        "Marathi": "English (Philippines)",
+        "capital": {
+            "name": "Manila",
+            "latitude": 14.599512,
+            "longitude": 120.984222
+        }
+    },
+    {
+        "locale_key": "ca",
+        "Marathi": "Catalan",
+        "capital": {
+            "name": "Lleida",
+            "latitude": 41.617592,
+            "longitude": 0.620015
+        }
+    },
+    {
+        "locale_key": "hu",
+        "Marathi": "Hungarian",
+        "capital": {
+            "name": "Budapest",
+            "latitude": 47.497913,
+            "longitude": 19.040236
+        }
+    },
+    {
+        "locale_key": "mk_MK",
+        "Marathi": "Macedonian (Macedonia)",
+        "capital": {
+            "name": "Skopje",
+            "latitude": 41.99646,
+            "longitude": 21.43141
+        }
+    },
+    {
+        "locale_key": "fr_TD",
+        "Marathi": "French (Chad)",
+        "capital": {
+            "name": "N'Djamena",
+            "latitude": 12.137752,
+            "longitude": 15.054325
+        }
+    },
+    {
+        "locale_key": "nb",
+        "Marathi": "Norwegian Bokmål",
+        "capital": {
+            "name": "Oslo",
+            "latitude": 59.911491,
+            "longitude": 10.757933
+        }
+    },
+    {
+        "locale_key": "sv",
+        "Marathi": "Swedish",
+        "capital": {
+            "name": "Stockholm",
+            "latitude": 59.334591,
+            "longitude": 18.063240
+        }
+    },
+    {
+        "locale_key": "kln_KE",
+        "Marathi": "Kalenjin (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "sw",
+        "Marathi": "Swahili",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "nd",
+        "Marathi": "North Ndebele",
+        "capital": {
+            "name": "Harare",
+            "latitude": -17.824858,
+            "longitude": 31.053028
+        }
+    },
+    {
+        "locale_key": "sr_Latn",
+        "Marathi": "Serbian (Latin)",
+        "capital": {
+            "name": "Belgrade",
+            "latitude": 44.787197,
+            "longitude": 20.457273
+        }
+    },
+    {
+        "locale_key": "el_GR",
+        "Marathi": "Greek (Greece)",
+        "capital": {
+            "name": "Athens",
+            "latitude": 37.983810,
+            "longitude": 23.727539
+        }
+    },
+    {
+        "locale_key": "hy",
+        "Marathi": "Armenian",
+        "capital": {
+            "name": "Yerevan",
+            "latitude": 40.177200,
+            "longitude": 44.503490
+        }
+    },
+    {
+        "locale_key": "ne",
+        "Marathi": "Nepali",
+        "capital": {
+            "name": "Kathmandu",
+            "latitude": 27.700001,
+            "longitude": 85.333336
+        }
+    },
+    {
+        "locale_key": "el_CY",
+        "Marathi": "Greek (Cyprus)",
+        "capital": {
+            "name": "Nicosia",
+            "latitude": 35.185566,
+            "longitude": 33.382275
+        }
+    },
+    {
+        "locale_key": "es_CR",
+        "Marathi": "Spanish (Costa Rica)",
+        "capital": {
+            "name": "San Jose",
+            "latitude": 9.934739,
+            "longitude": -84.087502
+        }
+    },
+    {
+        "locale_key": "fo_FO",
+        "Marathi": "Faroese (Faroe Islands)",
+        "capital": {
+            "name": "Skopun",
+            "latitude": 61.904461,
+            "longitude": -6.888534
+        }
+    },
+    {
+        "locale_key": "pa_Arab_PK",
+        "Marathi": "Punjabi (Arabic, Pakistan)",
+        "capital": {
+            "name": "Islamabad",
+            "latitude": 33.738045,
+            "longitude": 73.084488
+        }
+    },
+    {
+        "locale_key": "seh",
+        "Marathi": "Sena",
+        "capital": {
+            "name": "Islamabad",
+            "latitude": -25.953724,
+            "longitude": 32.588711
+        }
+    },
+    {
+        "locale_key": "ar_YE",
+        "Marathi": "Arabic (Yemen)",
+        "capital": {
+            "name": "Sana",
+            "latitude": 15.298819,
+            "longitude": 44.181877
+        }
+    },
+    {
+        "locale_key": "ja_JP",
+        "Marathi": "Japanese (Japan)",
+        "capital": {
+            "name": "Tokyo",
+            "latitude": 35.652832,
+            "longitude": 139.839478
+        }
+    },
+    {
+        "locale_key": "ur_PK",
+        "Marathi": "Urdu (Pakistan)",
+        "capital": {
+            "name": "Islamabad",
+            "latitude": 33.738045,
+            "longitude": 73.084488
+        }
+    },
+    {
+        "locale_key": "pa_Guru",
+        "Marathi": "Punjabi (Gurmukhi)",
+        "capital": {
+            "name": "Bujumbura",
+            "latitude": -3.361260,
+            "longitude": 29.347916
+        }
+    },
+    {
+        "locale_key": "gl_ES",
+        "Marathi": "Galician (Spain)",
+        "capital": {
+            "name": "Madrid",
+            "latitude": 40.416775,
+            "longitude": -3.703790
+        }
+    },
+    {
+        "locale_key": "zh_Hant_HK",
+        "Marathi": "Chinese (Traditional Han, Hong Kong SAR China)",
+        "capital": {
+            "name": "Hong Kong",
+            "latitude": 22.302711,
+            "longitude": 114.177216
+        }
+    },
+    {
+        "locale_key": "ar_EG",
+        "Marathi": "Arabic (Egypt)",
+        "capital": {
+            "name": "Cairo",
+            "latitude": 30.033333,
+            "longitude": 31.233334
+        }
+    },
+    {
+        "locale_key": "nl",
+        "Marathi": "Dutch",
+        "capital": {
+            "name": "Amsterdam",
+            "latitude": 52.370216,
+            "longitude": 4.895168
+        }
+    },
+    {
+        "locale_key": "th_TH",
+        "Marathi": "Thai (Thailand)",
+        "capital": {
+            "name": "Bangkok",
+            "latitude": 13.736717,
+            "longitude": 100.523186
+        }
+    },
+    {
+        "locale_key": "es_PE",
+        "Marathi": "Spanish (Peru)",
+        "capital": {
+            "name": "Lima",
+            "latitude": -12.046374,
+            "longitude": -77.042793
+        }
+    },
+    {
+        "locale_key": "fr_KM",
+        "Marathi": "French (Comoros)",
+        "capital": {
+            "name": "Moroni",
+            "latitude": -11.70216,
+            "longitude": 43.25506
+        }
+    },
+    {
+        "locale_key": "nn",
+        "Marathi": "Norwegian Nynorsk",
+        "capital": {
+            "name": "Oslo",
+            "latitude": 59.911491,
+            "longitude": 10.757933
+        }
+    },
+    {
+        "locale_key": "kk_Cyrl_KZ",
+        "Marathi": "Kazakh (Cyrillic, Kazakhstan)",
+        "capital": {
+            "name": "Astana",
+            "latitude": 51.169392,
+            "longitude": 71.449074
+        }
+    },
+    {
+        "locale_key": "kea",
+        "Marathi": "Kabuverdianu",
+        "capital": {
+            "name": "Boa Vista",
+            "latitude": 16.095011,
+            "longitude": -22.807835
+        }
+    },
+    {
+        "locale_key": "lv_LV",
+        "Marathi": "Latvian (Latvia)",
+        "capital": {
+            "name": "Riga",
+            "latitude": 56.946285,
+            "longitude": 24.105078
+        }
+    },
+    {
+        "locale_key": "kln",
+        "Marathi": "Kalenjin"
+    },
+    {
+        "locale_key": "tzm_Latn",
+        "Marathi": "Central Morocco Tamazight (Latin)",
+        "capital": {
+            "name": "Rabat",
+            "latitude": 34.020882,
+            "longitude": -6.841650
+        }
+    },
+    {
+        "locale_key": "yo",
+        "Marathi": "Yoruba",
+        "capital": {
+            "name": "Iwo",
+            "latitude": 7.629209,
+            "longitude": 4.187218
+        }
+    },
+    {
+        "locale_key": "gsw_CH",
+        "Marathi": "Swiss German (Switzerland)",
+        "capital": {
+            "name": "Geneva",
+            "latitude": 46.204391,
+            "longitude": 6.143158
+        }
+    },
+    {
+        "locale_key": "ha_Latn_GH",
+        "Marathi": "Hausa (Latin, Ghana)",
+        "capital": {
+            "name": "Accra",
+            "latitude": 5.550000,
+            "longitude": -0.020000
+        }
+    },
+    {
+        "locale_key": "is_IS",
+        "Marathi": "Icelandic (Iceland)",
+        "capital": {
+            "name": "Reykjavik",
+            "latitude": 64.128288,
+            "longitude": -21.827774
+        }
+    },
+    {
+        "locale_key": "pt_BR",
+        "Marathi": "Portuguese (Brazil)",
+        "capital": {
+            "name": "Brasilia",
+            "latitude": -15.77972,
+            "longitude": -47.92972
+        }
+    },
+    {
+        "locale_key": "cs",
+        "Marathi": "Czech",
+        "capital": {
+            "name": "Prague",
+            "latitude": 50.08804,
+            "longitude": 14.42076
+        }
+    },
+    {
+        "locale_key": "en_PK",
+        "Marathi": "English (Pakistan)",
+        "capital": {
+            "name": "Islamabad",
+            "latitude": 33.738045,
+            "longitude": 73.084488
+        }
+    },
+    {
+        "locale_key": "fa_IR",
+        "Marathi": "Persian (Iran)",
+        "capital": {
+            "name": "Tehran",
+            "latitude": 35.715298,
+            "longitude": 51.404343
+        }
+    },
+    {
+        "locale_key": "zh_Hans_SG",
+        "Marathi": "Chinese (Simplified Han, Singapore)",
+        "capital": {
+            "name": "Singapore",
+            "latitude": 1.290270,
+            "longitude": 103.851959
+        }
+    },
+    {
+        "locale_key": "luo",
+        "Marathi": "Luo",
+        "capital": {
+            "name": "Luoyang",
+            "latitude": 34.669724,
+            "longitude": 112.442223
+        }
+    },
+    {
+        "locale_key": "ta",
+        "Marathi": "Tamil",
+        "capital": {
+            "name": "Chennai",
+            "latitude": 13.067439,
+            "longitude": 80.237617
+        }
+    },
+    {
+        "locale_key": "fr_TG",
+        "Marathi": "French (Togo)",
+        "capital": {
+            "name": "Togo",
+            "latitude": 8.6259267,
+            "longitude": 0.8325041
+        }
+    },
+    {
+        "locale_key": "kde_TZ",
+        "Marathi": "Makonde (Tanzania)",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "mr_IN",
+        "Marathi": "Marathi (India)",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.644800,
+            "longitude": 77.216721
+        }
+    },
+    {
+        "locale_key": "ar_SA",
+        "Marathi": "Arabic (Saudi Arabia)",
+        "capital": {
+            "name": "Riyadh",
+            "latitude": 24.774265,
+            "longitude": 46.738586
+        }
+    },
+    {
+        "locale_key": "ka_GE",
+        "Marathi": "Georgian (Georgia)",
+        "capital": {
+            "name": "Tbilisi",
+            "latitude": 41.716667,
+            "longitude": 44.783333
+        }
+    },
+    {
+        "locale_key": "mfe_MU",
+        "Marathi": "Morisyen (Mauritius)",
+        "capital": {
+            "name": "Port Louis",
+            "latitude": -20.166666,
+            "longitude": 57.499998
+        }
+    },
+    {
+        "locale_key": "id",
+        "Marathi": "Indonesian",
+        "capital": {
+            "name": "Jakarta",
+            "latitude": -6.200000,
+            "longitude": 106.816666
+        }
+    },
+    {
+        "locale_key": "fr_LU",
+        "Marathi": "French (Luxembourg)",
+        "capital": {
+            "name": "Luxembourg",
+            "latitude": 49.611622,
+            "longitude": 6.131935
+        }
+    },
+    {
+        "locale_key": "de_LU",
+        "Marathi": "German (Luxembourg)",
+        "capital": {
+            "name": "Luxembourg",
+            "latitude": 49.611622,
+            "longitude": 6.131935
+        }
+    },
+    {
+        "locale_key": "ru_MD",
+        "Marathi": "Russian (Moldova)",
+        "capital": {
+            "name": "Chisinau",
+            "latitude": 47.003670,
+            "longitude": 28.907089
+        }
+    },
+    {
+        "locale_key": "cy",
+        "Marathi": "Welsh",
+        "capital": {
+            "name": "Cardiff",
+            "latitude": 51.481583,
+            "longitude": -3.179090
+        }
+    },
+    {
+        "locale_key": "zh_Hans_HK",
+        "Marathi": "Chinese (Simplified Han, Hong Kong SAR China)",
+        "capital": {
+            "name": "Hong Kong",
+            "latitude": 22.302711,
+            "longitude": 114.177216
+        }
+    },
+    {
+        "locale_key": "te",
+        "Marathi": "Telugu",
+        "capital": {
+            "name": "Visakhapatnam",
+            "latitude": 17.686815,
+            "longitude": 83.218483
+        }
+    },
+    {
+        "locale_key": "bg_BG",
+        "Marathi": "Bulgarian (Bulgaria)",
+        "capital": {
+            "name": "Sofia",
+            "latitude": 42.698334,
+            "longitude": 23.319941
+        }
+    },
+    {
+        "locale_key": "shi_Latn",
+        "Marathi": "Tachelhit (Latin)",
+        "capital": {
+            "name": "Colombo",
+            "latitude": 6.927079,
+            "longitude": 79.861244
+        }
+    },
+    {
+        "locale_key": "ig",
+        "Marathi": "Igbo",
+        "capital": {
+            "name": "Enugu",
+            "latitude": 6.459964,
+            "longitude": 7.548949
+        }
+    },
+    {
+        "locale_key": "ses",
+        "Marathi": "Koyraboro Senni",
+        "capital": {
+            "name": "Bamako",
+            "latitude": 12.65,
+            "longitude": -8.0
+        }
+    },
+    {
+        "locale_key": "ii",
+        "Marathi": "Sichuan Yi",
+        "capital": {
+            "name": "Chengdu",
+            "latitude": 30.657000,
+            "longitude": 104.066002
+        }
+    },
+    {
+        "locale_key": "es_BO",
+        "Marathi": "Spanish (Bolivia)",
+        "capital": {
+            "name": "Sucre",
+            "latitude": -19.03332,
+            "longitude": -65.26274
+        }
+    },
+    {
+        "locale_key": "th",
+        "Marathi": "Thai",
+        "capital": {
+            "name": "Bangkok",
+            "latitude": 13.736717,
+            "longitude": 100.523186
+        }
+    },
+    {
+        "locale_key": "ko_KR",
+        "Marathi": "Korean (South Korea)",
+        "capital": {
+            "name": "Seoul",
+            "latitude": 37.532600,
+            "longitude": 127.024612
+        }
+    },
+    {
+        "locale_key": "ti",
+        "Marathi": "Tigrinya",
+        "capital": {
+            "name": "Asmara",
+            "latitude": 15.33805,
+            "longitude": 38.93184
+        }
+    },
+    {
+        "locale_key": "it_IT",
+        "Marathi": "Italian (Italy)",
+        "capital": {
+            "name": "Rome",
+            "latitude": 41.902782,
+            "longitude": 12.496366
+        }
+    },
+    {
+        "locale_key": "shi_Latn_MA",
+        "Marathi": "Tachelhit (Latin, Morocco)",
+        "capital": {
+            "name": "Rabat",
+            "latitude": 34.020882,
+            "longitude": -6.841650
+        }
+    },
+    {
+        "locale_key": "pt_MZ",
+        "Marathi": "Portuguese (Mozambique)",
+        "capital": {
+            "name": "Maputo",
+            "latitude": -25.953724,
+            "longitude": 32.588711
+        }
+    },
+    {
+        "locale_key": "ff_SN",
+        "Marathi": "Fulah (Senegal)",
+        "capital": {
+            "name": "Dakar",
+            "latitude": 14.716677,
+            "longitude": -17.467686
+        }
+    },
+    {
+        "locale_key": "haw",
+        "Marathi": "Hawaiian",
+        "capital": {
+            "name": "Honolulu",
+            "latitude": 21.315603,
+            "longitude": -157.858093
+        }
+    },
+    {
+        "locale_key": "zh_Hans",
+        "Marathi": "Chinese (Simplified Han)",
+        "capital": {
+            "name": "Beijing",
+            "latitude": 39.916668,
+            "longitude": 116.383331
+        }
+    },
+    {
+        "locale_key": "so_KE",
+        "Marathi": "Somali (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "bn_IN",
+        "Marathi": "Bengali (India)",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.644800,
+            "longitude": 77.216721
+        }
+    },
+    {
+        "locale_key": "en_UM",
+        "Marathi": "English (U.S. Minor Outlying Islands)",
+        "capital": {
+            "name": "Howland Island",
+            "latitude": 0.801163462,
+            "longitude": -176.633830798
+        }
+    },
+    {
+        "locale_key": "to",
+        "Marathi": "Tonga",
+        "capital": {
+            "name": "Nuku'alofa",
+            "latitude": -21.136065,
+            "longitude": -175.208939
+        }
+    },
+    {
+        "locale_key": "id_ID",
+        "Marathi": "Indonesian (Indonesia)",
+        "capital": {
+            "name": "Jakarta",
+            "latitude": -6.200000,
+            "longitude": 106.816666
+        }
+    },
+    {
+        "locale_key": "uz_Cyrl",
+        "Marathi": "Uzbek (Cyrillic)",
+        "capital": {
+            "name": "Tashkent",
+            "latitude": 41.311081,
+            "longitude": 69.240562
+        }
+    },
+    {
+        "locale_key": "en_GU",
+        "Marathi": "English (Guam)",
+        "capital": {
+            "name": "Guam",
+            "latitude": 13.4502076,
+            "longitude": 144.7874584
+        }
+    },
+    {
+        "locale_key": "es_EC",
+        "Marathi": "Spanish (Ecuador)",
+        "capital": {
+            "name": "Quito",
+            "latitude": -0.180653,
+            "longitude": -78.467834
+        }
+    },
+    {
+        "locale_key": "en_US_POSIX",
+        "Marathi": "English (United States, Computer)",
+        "capital": {
+            "name": "Washington",
+            "latitude": 38.889248,
+            "longitude": -77.050636
+        }
+    },
+    {
+        "locale_key": "sr_Latn_BA",
+        "Marathi": "Serbian (Latin, Bosnia and Herzegovina)",
+        "capital": {
+            "name": "Belgrade",
+            "latitude": 44.787197,
+            "longitude": 20.457273
+        }
+    },
+    {
+        "locale_key": "is",
+        "Marathi": "Icelandic",
+        "capital": {
+            "name": "Reykjavik",
+            "latitude": 64.128288,
+            "longitude": -21.827774
+        }
+    },
+    {
+        "locale_key": "luy",
+        "Marathi": "Luyia",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "tr",
+        "Marathi": "Turkish",
+        "capital": {
+            "name": "Istanbul",
+            "latitude": 41.015137,
+            "longitude": 28.979530
+        }
+    },
+    {
+        "locale_key": "en_NA",
+        "Marathi": "English (Namibia)",
+        "capital": {
+            "name": "Windhoek",
+            "latitude": -22.55941,
+            "longitude": 17.08323
+        }
+    },
+    {
+        "locale_key": "it",
+        "Marathi": "Italian",
+        "capital": {
+            "name": "Rome",
+            "latitude": 41.902782,
+            "longitude": 12.496366
+        }
+    },
+    {
+        "locale_key": "da",
+        "Marathi": "Danish",
+        "capital": {
+            "name": "Copenhagen",
+            "latitude": 55.676098,
+            "longitude": 12.568337
+        }
+    },
+    {
+        "locale_key": "bo_IN",
+        "Marathi": "Tibetan (India)",
+        "capital": {
+            "name": "Ngari",
+            "latitude": 32.513237,
+            "longitude": 80.097885
+        }
+    },
+    {
+        "locale_key": "vun_TZ",
+        "Marathi": "Vunjo (Tanzania)",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "ar_SD",
+        "Marathi": "Arabic (Sudan)",
+        "capital": {
+            "name": "Khartoum",
+            "latitude": 15.564836,
+            "longitude": 32.529831
+        }
+    },
+    {
+        "locale_key": "uz_Latn_UZ",
+        "Marathi": "Uzbek (Latin, Uzbekistan)",
+        "capital": {
+            "name": "Tashkent",
+            "latitude": 41.311081,
+            "longitude": 69.240562
+        }
+    },
+    {
+        "locale_key": "az_Latn_AZ",
+        "Marathi": "Azerbaijani (Latin, Azerbaijan)",
+        "capital": {
+            "name": "Baku",
+            "latitude": 40.409264,
+            "longitude": 49.867092
+        }
+    },
+    {
+        "locale_key": "de",
+        "Marathi": "German",
+        "capital": {
+            "name": "Berlin",
+            "latitude": 52.520008,
+            "longitude": 13.404954
+        }
+    },
+    {
+        "locale_key": "es_GQ",
+        "Marathi": "Spanish (Equatorial Guinea)",
+        "capital": {
+            "name": "Malabo",
+            "latitude": 3.75,
+            "longitude": 8.78333
+        }
+    },
+    {
+        "locale_key": "ta_IN",
+        "Marathi": "Tamil (India)",
+        "capital": {
+            "name": "Chennai",
+            "latitude": 13.067439,
+            "longitude": 80.237617
+        }
+    },
+    {
+        "locale_key": "de_DE",
+        "Marathi": "German (Germany)",
+        "capital": {
+            "name": "Berlin",
+            "latitude": 52.520008,
+            "longitude": 13.404954
+        }
+    },
+    {
+        "locale_key": "fr_FR",
+        "Marathi": "French (France)",
+        "capital": {
+            "name": "Paris",
+            "latitude": 48.864716,
+            "longitude": 2.349014
+        }
+    },
+    {
+        "locale_key": "rof_TZ",
+        "Marathi": "Rombo (Tanzania)",
+        "capital": {
+            "name": "Marangu",
+            "latitude": -3.352831922,
+            "longitude": 37.519831254
+        }
+    },
+    {
+        "locale_key": "ar_LY",
+        "Marathi": "Arabic (Libya)",
+        "capital": {
+            "name": "Tripoli",
+            "latitude": 32.885353,
+            "longitude": 13.180161
+        }
+    },
+    {
+        "locale_key": "en_BW",
+        "Marathi": "English (Botswana)",
+        "capital": {
+            "name": "Gaborone",
+            "latitude": -24.653257,
+            "longitude": 25.906792
+        }
+    },
+    {
+        "locale_key": "asa",
+        "Marathi": "Asu",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "zh",
+        "Marathi": "Chinese",
+        "capital": {
+            "name": "Beijing",
+            "latitude": 39.916668,
+            "longitude": 116.383331
+        }
+    },
+    {
+        "locale_key": "ha_Latn",
+        "Marathi": "Hausa (Latin)",
+        "capital": {
+            "name": "Kano",
+            "latitude": 12.000000,
+            "longitude": 8.516667
+        }
+    },
+    {
+        "locale_key": "fr_NE",
+        "Marathi": "French (Niger)",
+        "capital": {
+            "name": "Niamey",
+            "latitude": 13.51366,
+            "longitude": 2.1098
+        }
+    },
+    {
+        "locale_key": "es_MX",
+        "Marathi": "Spanish (Mexico)",
+        "capital": {
+            "name": "Mexico",
+            "latitude": 19.451054,
+            "longitude": -99.125519
+        }
+    },
+    {
+        "locale_key": "bem_ZM",
+        "Marathi": "Bemba (Zambia)",
+        "capital": {
+            "name": "Lusaka",
+            "latitude": -15.416667,
+            "longitude": 28.283333
+        }
+    },
+    {
+        "locale_key": "zh_Hans_CN",
+        "Marathi": "Chinese (Simplified Han, China)",
+        "capital": {
+            "name": "Beijing",
+            "latitude": 39.916668,
+            "longitude": 116.383331
+        }
+    },
+    {
+        "locale_key": "bn_BD",
+        "Marathi": "Bengali (Bangladesh)",
+        "capital": {
+            "name": "Dhaka",
+            "latitude": 23.777176,
+            "longitude": 90.399452
+        }
+    },
+    {
+        "locale_key": "pt_GW",
+        "Marathi": "Portuguese (Guinea-Bissau)",
+        "capital": {
+            "name": "Bissau",
+            "latitude": 11.86357,
+            "longitude": -15.59767
+        }
+    },
+    {
+        "locale_key": "om",
+        "Marathi": "Oromo",
+        "capital": {
+            "name": "Arjo",
+            "latitude": 8.816667,
+            "longitude": 36.466667
+        }
+    },
+    {
+        "locale_key": "jmc",
+        "Marathi": "Machame",
+        "capital": {
+            "name": "Machame",
+            "latitude": -3.203665852,
+            "longitude": 37.22249911
+        }
+    },
+    {
+        "locale_key": "de_AT",
+        "Marathi": "German (Austria)",
+        "capital": {
+            "name": "Vienna",
+            "latitude": 48.210033,
+            "longitude": 16.363449
+        }
+    },
+    {
+        "locale_key": "kk_Cyrl",
+        "Marathi": "Kazakh (Cyrillic)",
+        "capital": {
+            "name": "Astana",
+            "latitude": 51.169392,
+            "longitude": 71.449074
+        }
+    },
+    {
+        "locale_key": "sw_TZ",
+        "Marathi": "Swahili (Tanzania)",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "ar_OM",
+        "Marathi": "Arabic (Oman)",
+        "capital": {
+            "name": "Muscat",
+            "latitude": 23.614328,
+            "longitude": 58.545284
+        }
+    },
+    {
+        "locale_key": "et_EE",
+        "Marathi": "Estonian (Estonia)",
+        "capital": {
+            "name": "Tallinn",
+            "latitude": 59.436962,
+            "longitude": 24.753574
+        }
+    },
+    {
+        "locale_key": "or",
+        "Marathi": "Oriya",
+        "capital": {
+            "name": "Bhubaneswar",
+            "latitude": 20.296059,
+            "longitude": 85.824539
+        }
+    },
+    {
+        "locale_key": "da_DK",
+        "Marathi": "Danish (Denmark)",
+        "capital": {
+            "name": "Copenhagen",
+            "latitude": 55.676098,
+            "longitude": 12.568337
+        }
+    },
+    {
+        "locale_key": "ro_RO",
+        "Marathi": "Romanian (Romania)",
+        "capital": {
+            "name": "Bucharest",
+            "latitude": 44.439663,
+            "longitude": 26.096306
+        }
+    },
+    {
+        "locale_key": "zh_Hant",
+        "Marathi": "Chinese (Traditional Han)",
+        "capital": {
+            "name": "Beijing",
+            "latitude": 39.916668,
+            "longitude": 116.383331
+        }
+    },
+    {
+        "locale_key": "bm_ML",
+        "Marathi": "Bambara (Mali)",
+        "capital": {
+            "name": "Bamako",
+            "latitude": 12.65,
+            "longitude": -8.0
+        }
+    },
+    {
+        "locale_key": "ja",
+        "Marathi": "Japanese",
+        "capital": {
+            "name": "Tokyo",
+            "latitude": 35.652832,
+            "longitude": 139.839478
+        }
+    },
+    {
+        "locale_key": "fr_CA",
+        "Marathi": "French (Canada)",
+        "capital": {
+            "name": "Ottawa",
+            "latitude": 45.424721,
+            "longitude": -75.695000
+        }
+    },
+    {
+        "locale_key": "naq",
+        "Marathi": "Nama",
+        "capital": {
+            "name": "Windhoek",
+            "latitude": -22.55941,
+            "longitude": 17.08323
+        }
+    },
+    {
+        "locale_key": "zu",
+        "Marathi": "Zulu",
+        "capital": {
+            "name": "Ulundi",
+            "latitude": -28.33523,
+            "longitude": 31.41617
+        }
+    },
+    {
+        "locale_key": "en_IE",
+        "Marathi": "English (Ireland)",
+        "capital": {
+            "name": "Dublin",
+            "latitude": 53.350140,
+            "longitude": -6.266155
+        }
+    },
+    {
+        "locale_key": "ar_MA",
+        "Marathi": "Arabic (Morocco)",
+        "capital": {
+            "name": "Rabat",
+            "latitude": 34.020882,
+            "longitude": -6.841650
+        }
+    },
+    {
+        "locale_key": "es_GT",
+        "Marathi": "Spanish (Guatemala)",
+        "capital": {
+            "name": "Guatemala",
+            "latitude": 14.628434,
+            "longitude": -90.522713
+        }
+    },
+    {
+        "locale_key": "uz_Arab_AF",
+        "Marathi": "Uzbek (Arabic, Afghanistan)",
+        "capital": {
+            "name": "Kabul",
+            "latitude": 34.543896,
+            "longitude": 69.160652
+        }
+    },
+    {
+        "locale_key": "en_AS",
+        "Marathi": "English (American Samoa)",
+        "capital": {
+            "name": "American Samoa",
+            "latitude": -14.3064071,
+            "longitude": -170.6950175
+        }
+    },
+    {
+        "locale_key": "bs_BA",
+        "Marathi": "Bosnian (Bosnia and Herzegovina)",
+        "capital": {
+            "name": "Sarajevo",
+            "latitude": 43.856430,
+            "longitude": 18.413029
+        }
+    },
+    {
+        "locale_key": "am_ET",
+        "Marathi": "Amharic (Ethiopia)",
+        "capital": {
+            "name": "Addis Ababa",
+            "latitude": 9.005401,
+            "longitude": 38.763611
+        }
+    },
+    {
+        "locale_key": "ar_TN",
+        "Marathi": "Arabic (Tunisia)",
+        "capital": {
+            "name": "Sousse",
+            "latitude": 35.821430,
+            "longitude": 10.634422
+        }
+    },
+    {
+        "locale_key": "haw_US",
+        "Marathi": "Hawaiian (United States)",
+        "capital": {
+            "name": "Honolulu",
+            "latitude": 21.315603,
+            "longitude": -157.858093
+        }
+    },
+    {
+        "locale_key": "ar_JO",
+        "Marathi": "Arabic (Jordan)",
+        "capital": {
+            "name": "Amman",
+            "latitude": 31.963158,
+            "longitude": 35.930359
+        }
+    },
+    {
+        "locale_key": "fa_AF",
+        "Marathi": "Persian (Afghanistan)",
+        "capital": {
+            "name": "Kabul",
+            "latitude": 34.543896,
+            "longitude": 69.160652
+        }
+    },
+    {
+        "locale_key": "uz_Latn",
+        "Marathi": "Uzbek (Latin)",
+        "capital": {
+            "name": "Tashkent",
+            "latitude": 41.311081,
+            "longitude": 69.240562
+        }
+    },
+    {
+        "locale_key": "en_BZ",
+        "Marathi": "English (Belize)",
+        "capital": {
+            "name": "Belmopan",
+            "latitude": 17.25,
+            "longitude": -88.76667
+        }
+    },
+    {
+        "locale_key": "nyn_UG",
+        "Marathi": "Nyankole (Uganda)",
+        "capital": {
+            "name": "Kampala",
+            "latitude": 0.347596,
+            "longitude": 32.582520
+        }
+    },
+    {
+        "locale_key": "ebu_KE",
+        "Marathi": "Embu (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "te_IN",
+        "Marathi": "Telugu (India)",
+        "capital": {
+            "name": "Visakhapatnam",
+            "latitude": 17.686815,
+            "longitude": 83.218483
+        }
+    },
+    {
+        "locale_key": "cy_GB",
+        "Marathi": "Welsh (United Kingdom)",
+        "capital": {
+            "name": "Cardiff",
+            "latitude": 51.481583,
+            "longitude": -3.179090
+        }
+    },
+    {
+        "locale_key": "uk",
+        "Marathi": "Ukrainian",
+        "capital": {
+            "name": "Kyiv",
+            "latitude": 50.450001,
+            "longitude": 30.523333
+        }
+    },
+    {
+        "locale_key": "nyn",
+        "Marathi": "Nyankole",
+        "capital": {
+            "name": "Kampala",
+            "latitude": 0.347596,
+            "longitude": 32.582520
+        }
+    },
+    {
+        "locale_key": "en_JM",
+        "Marathi": "English (Jamaica)",
+        "capital": {
+            "name": "Montego Bay",
+            "latitude": 18.476223,
+            "longitude": -77.893890
+        }
+    },
+    {
+        "locale_key": "en_US",
+        "Marathi": "English (United States)",
+        "capital": {
+            "name": "Washington",
+            "latitude": 38.887163118,
+            "longitude": -77.005333312
+        }
+    },
+    {
+        "locale_key": "fil",
+        "Marathi": "Filipino",
+        "capital": {
+            "name": "Luzon",
+            "latitude": 16.566233,
+            "longitude": 121.262634
+        }
+    },
+    {
+        "locale_key": "ar_KW",
+        "Marathi": "Arabic (Kuwait)",
+        "capital": {
+            "name": "Kuwait",
+            "latitude": 29.378586,
+            "longitude": 47.990341
+        }
+    },
+    {
+        "locale_key": "af_ZA",
+        "Marathi": "Afrikaans (South Africa)",
+        "capital": {
+            "name": "Cape Town",
+            "latitude": -33.92584,
+            "longitude": 18.42322
+        }
+    },
+    {
+        "locale_key": "en_CA",
+        "Marathi": "English (Canada)",
+        "capital": {
+            "name": "Ottawa",
+            "latitude": 45.424721,
+            "longitude": -75.695000
+        }
+    },
+    {
+        "locale_key": "fr_DJ",
+        "Marathi": "French (Djibouti)",
+        "capital": {
+            "name": "Djibouti",
+            "latitude": 11.572076,
+            "longitude": 43.145645
+        }
+    },
+    {
+        "locale_key": "ti_ER",
+        "Marathi": "Tigrinya (Eritrea)",
+        "capital": {
+            "name": "Massawa",
+            "latitude": 15.609770,
+            "longitude": 39.449974
+        }
+    },
+    {
+        "locale_key": "ig_NG",
+        "Marathi": "Igbo (Nigeria)",
+        "capital": {
+            "name": "Abuja",
+            "latitude": 9.072264,
+            "longitude": 7.491302
+        }
+    },
+    {
+        "locale_key": "en_AU",
+        "Marathi": "English (Australia)",
+        "capital": {
+            "name": "Sydney",
+            "latitude": -35.473469,
+            "longitude": 149.012375
+        }
+    },
+    {
+        "locale_key": "ur",
+        "Marathi": "Urdu",
+        "capital": {
+            "name": "Islamabad",
+            "latitude": 33.72148,
+            "longitude": 73.04329
+        }
+    },
+    {
+        "locale_key": "fr_MC",
+        "Marathi": "French (Monaco)",
+        "capital": {
+            "name": "Monte Carlo",
+            "latitude": 43.740070,
+            "longitude": 7.426644
+        }
+    },
+    {
+        "locale_key": "pt_PT",
+        "Marathi": "Portuguese (Portugal)",
+        "capital": {
+            "name": "Lisbon",
+            "latitude": 38.736946,
+            "longitude": -9.142685
+        }
+    },
+    {
+        "locale_key": "pa",
+        "Marathi": "Punjabi",
+        "capital": {
+            "name": "Ludhiana",
+            "latitude": 30.900965,
+            "longitude": 75.857277
+        }
+    },
+    {
+        "locale_key": "es_419",
+        "Marathi": "Spanish (Latin America)",
+        "capital": {
+            "name": "Buenos Aires",
+            "latitude": -34.61315,
+            "longitude": -58.37723
+        }
+    },
+    {
+        "locale_key": "fr_CD",
+        "Marathi": "French (Congo - Kinshasa)",
+        "capital": {
+            "name": "Kinshasa",
+            "latitude": -4.322447,
+            "longitude": 15.307045
+        }
+    },
+    {
+        "locale_key": "en_SG",
+        "Marathi": "English (Singapore)",
+        "capital": {
+            "name": "Singapore",
+            "latitude": 1.290270,
+            "longitude": 103.851959
+        }
+    },
+    {
+        "locale_key": "bo_CN",
+        "Marathi": "Tibetan (China)",
+        "capital": {
+            "name": "Lhasa",
+            "latitude": 29.652491,
+            "longitude": 91.172112
+        }
+    },
+    {
+        "locale_key": "kn_IN",
+        "Marathi": "Kannada (India)",
+        "capital": {
+            "name": "Bangalore",
+            "latitude": 12.972442,
+            "longitude": 77.580643
+        }
+    },
+    {
+        "locale_key": "sr_Cyrl_RS",
+        "Marathi": "Serbian (Cyrillic, Serbia)",
+        "capital": {
+            "name": "Belgrade",
+            "latitude": 44.787197,
+            "longitude": 20.457273
+        }
+    },
+    {
+        "locale_key": "lg_UG",
+        "Marathi": "Ganda (Uganda)",
+        "capital": {
+            "name": "Kampala",
+            "latitude": 0.347596,
+            "longitude": 32.582520
+        }
+    },
+    {
+        "locale_key": "gu_IN",
+        "Marathi": "Gujarati (India)",
+        "capital": {
+            "name": "Gujarat",
+            "latitude": 22.309425,
+            "longitude": 72.136230
+        }
+    },
+    {
+        "locale_key": "ee",
+        "Marathi": "Ewe",
+        "capital": {
+            "name": "Accra",
+            "latitude": 5.550000,
+            "longitude": -0.020000
+        }
+    },
+    {
+        "locale_key": "nd_ZW",
+        "Marathi": "North Ndebele (Zimbabwe)",
+        "capital": {
+            "name": "Harare",
+            "latitude": -17.824858,
+            "longitude": 31.053028
+        }
+    },
+    {
+        "locale_key": "bem",
+        "Marathi": "Bemba",
+        "capital": {
+            "name": "Lusaka",
+            "latitude": -15.416667,
+            "longitude": 28.283333
+        }
+    },
+    {
+        "locale_key": "uz",
+        "Marathi": "Uzbek",
+        "capital": {
+            "name": "Tashkent",
+            "latitude": 41.311081,
+            "longitude": 69.240562
+        }
+    },
+    {
+        "locale_key": "sw_KE",
+        "Marathi": "Swahili (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "sq_AL",
+        "Marathi": "Albanian (Albania)",
+        "capital": {
+            "name": "Tirana",
+            "latitude": 41.327953,
+            "longitude": 19.819025
+        }
+    },
+    {
+        "locale_key": "hr_HR",
+        "Marathi": "Croatian (Croatia)",
+        "capital": {
+            "name": "Zagreb",
+            "latitude": 45.815399,
+            "longitude": 15.966568
+        }
+    },
+    {
+        "locale_key": "mas_KE",
+        "Marathi": "Masai (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "el",
+        "Marathi": "Greek",
+        "capital": {
+            "name": "Athens",
+            "latitude": 37.983810,
+            "longitude": 23.727539
+        }
+    },
+    {
+        "locale_key": "ti_ET",
+        "Marathi": "Tigrinya (Ethiopia)",
+        "capital": {
+            "name": "Addis Ababa",
+            "latitude": 9.005401,
+            "longitude": 38.763611
+        }
+    },
+    {
+        "locale_key": "es_AR",
+        "Marathi": "Spanish (Argentina)",
+        "capital": {
+            "name": "Buenos Aires",
+            "latitude": -34.603722,
+            "longitude": -58.381592
+        }
+    },
+    {
+        "locale_key": "pl",
+        "Marathi": "Polish",
+        "capital": {
+            "name": "Warsaw",
+            "latitude": 52.237049,
+            "longitude": 21.017532
+        }
+    },
+    {
+        "locale_key": "en",
+        "Marathi": "English",
+        "capital": {
+            "name": "London",
+            "latitude": 51.509865,
+            "longitude": -0.118092
+        }
+    },
+    {
+        "locale_key": "eo",
+        "Marathi": "Esperanto",
+        "capital": {
+            "name": "Madrid",
+            "latitude": 40.416775,
+            "longitude": -3.703790
+        }
+    },
+    {
+        "locale_key": "shi",
+        "Marathi": "Tachelhit",
+        "capital": {
+            "name": "Colombo",
+            "latitude": 6.927079,
+            "longitude": 79.861244
+        }
+    },
+    {
+        "locale_key": "kok",
+        "Marathi": "Konkani",
+        "capital": {
+            "name": "Borda",
+            "latitude": 15.286691,
+            "longitude": 73.969780
+        }
+    },
+    {
+        "locale_key": "fr_CF",
+        "Marathi": "French (Central African Republic)",
+        "capital": {
+            "name": "Bangui",
+            "latitude": 4.3612199,
+            "longitude": 18.5549603
+        }
+    },
+    {
+        "locale_key": "fr_RE",
+        "Marathi": "French (Réunion)",
+        "capital": {
+            "name": "Saint-Denis",
+            "latitude": -20.878901,
+            "longitude": 55.448101
+        }
+    },
+    {
+        "locale_key": "mas",
+        "Marathi": "Masai",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.28333,
+            "longitude": 36.81667
+        }
+    },
+    {
+        "locale_key": "rof",
+        "Marathi": "Rombo",
+        "capital": {
+            "name": "Bujumbura",
+            "latitude": -3.361260,
+            "longitude": 29.347916
+        }
+    },
+    {
+        "locale_key": "ru_UA",
+        "Marathi": "Russian (Ukraine)",
+        "capital": {
+            "name": "Kyiv",
+            "latitude": 50.450001,
+            "longitude": 30.523333
+        }
+    },
+    {
+        "locale_key": "yo_NG",
+        "Marathi": "Yoruba (Nigeria)",
+        "capital": {
+            "name": "Abuja",
+            "latitude": 9.072264,
+            "longitude": 7.491302
+        }
+    },
+    {
+        "locale_key": "dav_KE",
+        "Marathi": "Taita (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "gv_GB",
+        "Marathi": "Manx (United Kingdom)",
+        "capital": {
+            "name": "British Isles",
+            "latitude": 54.0,
+            "longitude": -4.0
+        }
+    },
+    {
+        "locale_key": "pa_Arab",
+        "Marathi": "Punjabi (Arabic)",
+        "capital": {
+            "name": "Riyadh",
+            "latitude": 24.774265,
+            "longitude": 46.738586
+        }
+    },
+    {
+        "locale_key": "es",
+        "Marathi": "Spanish",
+        "capital": {
+            "name": "Madrid",
+            "latitude": 40.416775,
+            "longitude": -3.703790
+        }
+    },
+    {
+        "locale_key": "teo_UG",
+        "Marathi": "Teso (Uganda)",
+        "capital": {
+            "name": "Kampala",
+            "latitude": 0.347596,
+            "longitude": 32.582520
+        }
+    },
+    {
+        "locale_key": "ps",
+        "Marathi": "Pashto",
+        "capital": {
+            "name": "Kabul",
+            "latitude": 34.543896,
+            "longitude": 69.160652
+        }
+    },
+    {
+        "locale_key": "es_PR",
+        "Marathi": "Spanish (Puerto Rico)",
+        "capital": {
+            "name": "San Juan",
+            "latitude": 18.466333,
+            "longitude": -66.105721
+        }
+    },
+    {
+        "locale_key": "fr_MF",
+        "Marathi": "French (Saint Martin)",
+        "capital": {
+            "name": "Marigot",
+            "latitude": 18.073099,
+            "longitude": -63.082199
+        }
+    },
+    {
+        "locale_key": "et",
+        "Marathi": "Estonian",
+        "capital": {
+            "name": "Tallinn",
+            "latitude": 59.436962,
+            "longitude": 24.753574
+        }
+    },
+    {
+        "locale_key": "pt",
+        "Marathi": "Portuguese",
+        "capital": {
+            "name": "Lisbon",
+            "latitude": 38.736946,
+            "longitude": -9.142685
+        }
+    },
+    {
+        "locale_key": "eu",
+        "Marathi": "Basque",
+        "capital": {
+            "name": "Bilbao",
+            "latitude": 43.262985,
+            "longitude": -2.935013
+        }
+    },
+    {
+        "locale_key": "ka",
+        "Marathi": "Georgian",
+        "capital": {
+            "name": "Tbilisi",
+            "latitude": 41.716667,
+            "longitude": 44.783333
+        }
+    },
+    {
+        "locale_key": "rwk_TZ",
+        "Marathi": "Rwa (Tanzania)",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "nb_NO",
+        "Marathi": "Norwegian Bokmål (Norway)",
+        "capital": {
+            "name": "Oslo",
+            "latitude": 59.911491,
+            "longitude": 10.757933
+        }
+    },
+    {
+        "locale_key": "fr_CG",
+        "Marathi": "French (Congo - Brazzaville)",
+        "capital": {
+            "name": "Brazzaville",
+            "latitude": -4.267778,
+            "longitude": 15.291944
+        }
+    },
+    {
+        "locale_key": "cgg",
+        "Marathi": "Chiga",
+        "capital": {
+            "name": "Kampala",
+            "latitude": 0.347596,
+            "longitude": 32.582520
+        }
+    },
+    {
+        "locale_key": "zh_Hant_TW",
+        "Marathi": "Chinese (Traditional Han, Taiwan)",
+        "capital": {
+            "name": "Taipei",
+            "latitude": 25.105497,
+            "longitude": 121.597366
+        }
+    },
+    {
+        "locale_key": "sr_Cyrl_ME",
+        "Marathi": "Serbian (Cyrillic, Montenegro)",
+        "capital": {
+            "name": "Podgorica",
+            "latitude": 42.442574,
+            "longitude": 19.268646
+        }
+    },
+    {
+        "locale_key": "lag",
+        "Marathi": "Langi",
+        "capital": {
+            "name": "Dokolo",
+            "latitude": 1.634330796,
+            "longitude": 32.82166338
+        }
+    },
+    {
+        "locale_key": "ses_ML",
+        "Marathi": "Koyraboro Senni (Mali)",
+        "capital": {
+            "name": "Bamako",
+            "latitude": 12.65,
+            "longitude": -8.0
+        }
+    },
+    {
+        "locale_key": "en_ZW",
+        "Marathi": "English (Zimbabwe)",
+        "capital": {
+            "name": "Harare",
+            "latitude": -17.824858,
+            "longitude": 31.053028
+        }
+    },
+    {
+        "locale_key": "ak_GH",
+        "Marathi": "Akan (Ghana)",
+        "capital": {
+            "name": "Accra",
+            "latitude": 5.550000,
+            "longitude": -0.020000
+        }
+    },
+    {
+        "locale_key": "vi_VN",
+        "Marathi": "Vietnamese (Vietnam)",
+        "capital": {
+            "name": "Hanoi",
+            "latitude": 21.028511,
+            "longitude": 105.804817
+        }
+    },
+    {
+        "locale_key": "sv_FI",
+        "Marathi": "Swedish (Finland)",
+        "capital": {
+            "name": "Helsinki",
+            "latitude": 60.192059,
+            "longitude": 24.945831
+        }
+    },
+    {
+        "locale_key": "to_TO",
+        "Marathi": "Tonga (Tonga)",
+        "capital": {
+            "name": "Nuku'alofa",
+            "latitude": -21.136065,
+            "longitude": -175.208939
+        }
+    },
+    {
+        "locale_key": "fr_MG",
+        "Marathi": "French (Madagascar)",
+        "capital": {
+            "name": "Antananarivo",
+            "latitude": -18.9333296,
+            "longitude": 47.5166646
+        }
+    },
+    {
+        "locale_key": "fr_GA",
+        "Marathi": "French (Gabon)",
+        "capital": {
+            "name": "Libreville",
+            "latitude": 0.390100,
+            "longitude": 9.454400
+        }
+    },
+    {
+        "locale_key": "fr_CH",
+        "Marathi": "French (Switzerland)",
+        "capital": {
+            "name": "Geneva",
+            "latitude": 46.204391,
+            "longitude": 6.143158
+        }
+    },
+    {
+        "locale_key": "de_CH",
+        "Marathi": "German (Switzerland)",
+        "capital": {
+            "name": "Geneva",
+            "latitude": 46.204391,
+            "longitude": 6.143158
+        }
+    },
+    {
+        "locale_key": "es_US",
+        "Marathi": "Spanish (United States)",
+        "capital": {
+            "name": "Washington",
+            "latitude": 38.889248,
+            "longitude": -77.050636
+        }
+    },
+    {
+        "locale_key": "ki",
+        "Marathi": "Kikuyu",
+        "capital": {
+            "name": "Kikuyu",
+            "latitude": -1.254337,
+            "longitude": 36.681660
+        }
+    },
+    {
+        "locale_key": "my_MM",
+        "Marathi": "Burmese (Myanmar [Burma])",
+        "capital": {
+            "name": "Yangon",
+            "latitude": 16.871311,
+            "longitude": 96.199379
+        }
+    },
+    {
+        "locale_key": "vi",
+        "Marathi": "Vietnamese",
+        "capital": {
+            "name": "Hanoi",
+            "latitude": 21.028511,
+            "longitude": 105.804817
+        }
+    },
+    {
+        "locale_key": "ar_QA",
+        "Marathi": "Arabic (Qatar)",
+        "capital": {
+            "name": "Doha",
+            "latitude": 25.286106,
+            "longitude": 51.534817
+        }
+    },
+    {
+        "locale_key": "ga_IE",
+        "Marathi": "Irish (Ireland)",
+        "capital": {
+            "name": "Dublin",
+            "latitude": 53.350140,
+            "longitude": -6.266155
+        }
+    },
+    {
+        "locale_key": "rwk",
+        "Marathi": "Rwa",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "bez",
+        "Marathi": "Bena"
+    },
+    {
+        "locale_key": "ee_GH",
+        "Marathi": "Ewe (Ghana)",
+        "capital": {
+            "name": "Accra",
+            "latitude": 5.550000,
+            "longitude": -0.020000
+        }
+    },
+    {
+        "locale_key": "kk",
+        "Marathi": "Kazakh",
+        "capital": {
+            "name": "Astana",
+            "latitude": 51.169392,
+            "longitude": 71.449074
+        }
+    },
+    {
+        "locale_key": "as_IN",
+        "Marathi": "Assamese (India)",
+        "capital": {
+            "name": "Guwahati",
+            "latitude": 26.148043,
+            "longitude": 91.731377
+        }
+    },
+    {
+        "locale_key": "ca_ES",
+        "Marathi": "Catalan (Spain)",
+        "capital": {
+            "name": "Lleida",
+            "latitude": 41.617592,
+            "longitude": 0.620015
+        }
+    },
+    {
+        "locale_key": "kl",
+        "Marathi": "Kalaallisut",
+        "capital": {
+            "name": "Nuuk",
+            "latitude": 64.18347,
+            "longitude": -51.72157
+        }
+    },
+    {
+        "locale_key": "fr_SN",
+        "Marathi": "French (Senegal)",
+        "capital": {
+            "name": "Dakar",
+            "latitude": 14.6937,
+            "longitude": -17.44406
+        }
+    },
+    {
+        "locale_key": "ne_IN",
+        "Marathi": "Nepali (India)",
+        "capital": {
+            "name": "Kathmandu",
+            "latitude": 27.700769,
+            "longitude": 85.300140
+        }
+    },
+    {
+        "locale_key": "km",
+        "Marathi": "Khmer",
+        "capital": {
+            "name": "Phnom Penh",
+            "latitude": 11.562108,
+            "longitude": 104.888535
+        }
+    },
+    {
+        "locale_key": "ms_BN",
+        "Marathi": "Malay (Brunei)",
+        "capital": {
+            "name": "Bandar Seri Begawan",
+            "latitude": 4.94029,
+            "longitude": 114.94806
+        }
+    },
+    {
+        "locale_key": "ar_LB",
+        "Marathi": "Arabic (Lebanon)",
+        "capital": {
+            "name": "Beirut",
+            "latitude": 33.88894,
+            "longitude": 35.49442
+        }
+    },
+    {
+        "locale_key": "ta_LK",
+        "Marathi": "Tamil (Sri Lanka)",
+        "capital": {
+            "name": "Jaffna",
+            "latitude": 9.666664,
+            "longitude": 80.0
+        }
+    },
+    {
+        "locale_key": "kn",
+        "Marathi": "Kannada",
+        "capital": {
+            "name": "Bangalore",
+            "latitude": 12.972442,
+            "longitude": 77.580643
+        }
+    },
+    {
+        "locale_key": "ur_IN",
+        "Marathi": "Urdu (India)",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.644800,
+            "longitude": 77.216721
+        }
+    },
+    {
+        "locale_key": "fr_CI",
+        "Marathi": "French (Côte d’Ivoire)",
+        "capital": {
+            "name": "Abidjan",
+            "latitude": 5.345317,
+            "longitude": -4.024429
+        }
+    },
+    {
+        "locale_key": "ko",
+        "Marathi": "Korean",
+        "capital": {
+            "name": "Seoul",
+            "latitude": 37.532600,
+            "longitude": 127.024612
+        }
+    },
+    {
+        "locale_key": "ha_Latn_NG",
+        "Marathi": "Hausa (Latin, Nigeria)",
+        "capital": {
+            "name": "Abuja",
+            "latitude": 9.072264,
+            "longitude": 7.491302
+        }
+    },
+    {
+        "locale_key": "sg_CF",
+        "Marathi": "Sango (Central African Republic)",
+        "capital": {
+            "name": "Bangui",
+            "latitude": 4.3612199,
+            "longitude": 18.5549603
+        }
+    },
+    {
+        "locale_key": "om_ET",
+        "Marathi": "Oromo (Ethiopia)",
+        "capital": {
+            "name": "Addis Ababa",
+            "latitude": 9.005401,
+            "longitude": 38.763611
+        }
+    },
+    {
+        "locale_key": "zh_Hant_MO",
+        "Marathi": "Chinese (Traditional Han, Macau SAR China)",
+        "capital": {
+            "name": "Beijing",
+            "latitude": 39.916668,
+            "longitude": 116.383331
+        }
+    },
+    {
+        "locale_key": "uk_UA",
+        "Marathi": "Ukrainian (Ukraine)",
+        "capital": {
+            "name": "Kyiv",
+            "latitude": 50.450001,
+            "longitude": 30.523333
+        }
+    },
+    {
+        "locale_key": "fa",
+        "Marathi": "Persian",
+        "capital": {
+            "name": "Isfahan",
+            "latitude": 32.661343,
+            "longitude": 51.680374
+        }
+    },
+    {
+        "locale_key": "mt_MT",
+        "Marathi": "Maltese (Malta)",
+        "capital": {
+            "name": "Fort Saint Elmo",
+            "latitude": 35.897789,
+            "longitude": 14.514106
+        }
+    },
+    {
+        "locale_key": "ki_KE",
+        "Marathi": "Kikuyu (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "luy_KE",
+        "Marathi": "Luyia (Kenya)",
+        "capital": {
+            "name": "Lambwe",
+            "latitude": -1.291514,
+            "longitude": 36.874260
+        }
+    },
+    {
+        "locale_key": "kw",
+        "Marathi": "Cornish",
+        "capital": {
+            "name": "Cornwall",
+            "latitude": 45.027500,
+            "longitude": -74.739998
+        }
+    },
+    {
+        "locale_key": "pa_Guru_IN",
+        "Marathi": "Punjabi (Gurmukhi, India)",
+        "capital": {
+            "name": "Ludhiana",
+            "latitude": 30.900965,
+            "longitude": 75.857277
+        }
+    },
+    {
+        "locale_key": "en_IN",
+        "Marathi": "English (India)",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.644800,
+            "longitude": 77.216721
+        }
+    },
+    {
+        "locale_key": "kab",
+        "Marathi": "Kabyle",
+        "capital": {
+            "name": "Kouba",
+            "latitude": 36.726017,
+            "longitude": 3.082667
+        }
+    },
+    {
+        "locale_key": "ar_IQ",
+        "Marathi": "Arabic (Iraq)",
+        "capital": {
+            "name": "Baghdad",
+            "latitude": 33.312805,
+            "longitude": 44.361488
+        }
+    },
+    {
+        "locale_key": "ff",
+        "Marathi": "Fulah",
+        "capital": {
+            "name": "Yaounde",
+            "latitude": 3.844119,
+            "longitude": 11.501346
+        }
+    },
+    {
+        "locale_key": "en_TT",
+        "Marathi": "English (Trinidad and Tobago)",
+        "capital": {
+            "name": "Port of Spain",
+            "latitude": 10.671067,
+            "longitude": -61.521206
+        }
+    },
+    {
+        "locale_key": "bez_TZ",
+        "Marathi": "Bena (Tanzania)",
+        "capital": {
+            "name": "Makambako",
+            "latitude": -8.849012,
+            "longitude": 34.828060
+        }
+    },
+    {
+        "locale_key": "es_NI",
+        "Marathi": "Spanish (Nicaragua)",
+        "capital": {
+            "name": "Managua",
+            "latitude": 12.136389,
+            "longitude": -86.251389
+        }
+    },
+    {
+        "locale_key": "uz_Arab",
+        "Marathi": "Uzbek (Arabic)",
+        "capital": {
+            "name": "Tashkent",
+            "latitude": 41.311081,
+            "longitude": 69.240562
+        }
+    },
+    {
+        "locale_key": "ne_NP",
+        "Marathi": "Nepali (Nepal)",
+        "capital": {
+            "name": "Kathmandu",
+            "latitude": 27.700769,
+            "longitude": 85.300140
+        }
+    },
+    {
+        "locale_key": "fi",
+        "Marathi": "Finnish",
+        "capital": {
+            "name": "Helsinki",
+            "latitude": 60.192059,
+            "longitude": 24.945831
+        }
+    },
+    {
+        "locale_key": "khq",
+        "Marathi": "Koyra Chiini",
+        "capital": {
+            "name": "Bujumbura",
+            "latitude": -3.361260,
+            "longitude": 29.347916
+        }
+    },
+    {
+        "locale_key": "gsw",
+        "Marathi": "Swiss German",
+        "capital": {
+            "name": "Zurich",
+            "latitude": 47.36667,
+            "longitude": 8.55
+        }
+    },
+    {
+        "locale_key": "zh_Hans_MO",
+        "Marathi": "Chinese (Simplified Han, Macau SAR China)",
+        "capital": {
+            "name": "Beijing",
+            "latitude": 39.916668,
+            "longitude": 116.383331
+        }
+    },
+    {
+        "locale_key": "en_MH",
+        "Marathi": "English (Marshall Islands)",
+        "capital": {
+            "name": "Marshall Islands",
+            "latitude": 11.6040209,
+            "longitude": 165.3133111
+        }
+    },
+    {
+        "locale_key": "hu_HU",
+        "Marathi": "Hungarian (Hungary)",
+        "capital": {
+            "name": "Budapest",
+            "latitude": 47.497913,
+            "longitude": 19.040236
+        }
+    },
+    {
+        "locale_key": "en_GB",
+        "Marathi": "English (United Kingdom)",
+        "capital": {
+            "name": "London",
+            "latitude": 51.509865,
+            "longitude": -0.118092
+        }
+    },
+    {
+        "locale_key": "fr_BE",
+        "Marathi": "French (Belgium)",
+        "capital": {
+            "name": "Brussels",
+            "latitude": 50.8504486,
+            "longitude": 4.3487802
+        }
+    },
+    {
+        "locale_key": "de_BE",
+        "Marathi": "German (Belgium)",
+        "capital": {
+            "name": "Brussels",
+            "latitude": 50.8504486,
+            "longitude": 4.3487802
+        }
+    },
+    {
+        "locale_key": "saq",
+        "Marathi": "Samburu",
+        "capital": {
+            "name": "Maralal",
+            "latitude": 1.09667,
+            "longitude": 36.6980591
+        }
+    },
+    {
+        "locale_key": "be_BY",
+        "Marathi": "Belarusian (Belarus)",
+        "capital": {
+            "name": "Maralal",
+            "latitude": 53.893009,
+            "longitude": 27.567444
+        }
+    },
+    {
+        "locale_key": "sl_SI",
+        "Marathi": "Slovenian (Slovenia)",
+        "capital": {
+            "name": "Ljubljana",
+            "latitude": 46.056946,
+            "longitude": 14.505751
+        }
+    },
+    {
+        "locale_key": "sr_Latn_RS",
+        "Marathi": "Serbian (Latin, Serbia)",
+        "capital": {
+            "name": "Belgrade",
+            "latitude": 44.787197,
+            "longitude": 20.457273
+        }
+    },
+    {
+        "locale_key": "fo",
+        "Marathi": "Faroese",
+        "capital": {
+            "name": "Torshavn",
+            "latitude": 62.00973,
+            "longitude": -6.77164
+        }
+    },
+    {
+        "locale_key": "fr",
+        "Marathi": "French",
+        "capital": {
+            "name": "Paris",
+            "latitude": 48.864716,
+            "longitude": 2.349014
+        }
+    },
+    {
+        "locale_key": "xog",
+        "Marathi": "Soga",
+        "capital": {
+            "name": "Baghdad",
+            "latitude": 33.312805,
+            "longitude": 44.361488
+        }
+    },
+    {
+        "locale_key": "fr_BF",
+        "Marathi": "French (Burkina Faso)",
+        "capital": {
+            "name": "Ouagadougou",
+            "latitude": 12.36566,
+            "longitude": -1.53388
+        }
+    },
+    {
+        "locale_key": "tzm",
+        "Marathi": "Central Morocco Tamazight",
+        "capital": {
+            "name": "Marrakesh",
+            "latitude": 31.669746,
+            "longitude": -7.973328
+        }
+    },
+    {
+        "locale_key": "sk_SK",
+        "Marathi": "Slovak (Slovakia)",
+        "capital": {
+            "name": "Bratislava",
+            "latitude": 48.148598,
+            "longitude": 17.107748
+        }
+    },
+    {
+        "locale_key": "fr_ML",
+        "Marathi": "French (Mali)",
+        "capital": {
+            "name": "Bamako",
+            "latitude": 12.65,
+            "longitude": -8.0
+        }
+    },
+    {
+        "locale_key": "he_IL",
+        "Marathi": "Hebrew (Israel)",
+        "capital": {
+            "name": "Jerusalem",
+            "latitude": 31.771959,
+            "longitude": 35.217018
+        }
+    },
+    {
+        "locale_key": "ha_Latn_NE",
+        "Marathi": "Hausa (Latin, Niger)",
+        "capital": {
+            "name": "Tahoua",
+            "latitude": 14.883333,
+            "longitude": 5.266667
+        }
+    },
+    {
+        "locale_key": "ru_RU",
+        "Marathi": "Russian (Russia)",
+        "capital": {
+            "name": "Moscow",
+            "latitude": 55.751244,
+            "longitude": 37.618423
+        }
+    },
+    {
+        "locale_key": "fr_CM",
+        "Marathi": "French (Cameroon)",
+        "capital": {
+            "name": "Yaounde",
+            "latitude": 3.844119,
+            "longitude": 11.501346
+        }
+    },
+    {
+        "locale_key": "teo_KE",
+        "Marathi": "Teso (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "seh_MZ",
+        "Marathi": "Sena (Mozambique)",
+        "capital": {
+            "name": "Maputo",
+            "latitude": -25.953724,
+            "longitude": 32.588711
+        }
+    },
+    {
+        "locale_key": "kl_GL",
+        "Marathi": "Kalaallisut (Greenland)",
+        "capital": {
+            "name": "Nuuk",
+            "latitude": 64.18347,
+            "longitude": -51.72157
+        }
+    },
+    {
+        "locale_key": "fi_FI",
+        "Marathi": "Finnish (Finland)",
+        "capital": {
+            "name": "Helsinki",
+            "latitude": 60.192059,
+            "longitude": 24.945831
+        }
+    },
+    {
+        "locale_key": "kam",
+        "Marathi": "Kamba",
+        "capital": {
+            "name": "Kamba",
+            "latitude": 11.85172,
+            "longitude": 3.65478
+        }
+    },
+    {
+        "locale_key": "es_ES",
+        "Marathi": "Spanish (Spain)",
+        "capital": {
+            "name": "Madrid",
+            "latitude": 40.416775,
+            "longitude": -3.703790
+        }
+    },
+    {
+        "locale_key": "af",
+        "Marathi": "Afrikaans",
+        "capital": {
+            "name": "Cape Town",
+            "latitude": -33.918861,
+            "longitude": 18.423300
+        }
+    },
+    {
+        "locale_key": "asa_TZ",
+        "Marathi": "Asu (Tanzania)",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "cs_CZ",
+        "Marathi": "Czech (Czech Republic)",
+        "capital": {
+            "name": "Brno",
+            "latitude": 49.195061,
+            "longitude": 16.606836
+        }
+    },
+    {
+        "locale_key": "tr_TR",
+        "Marathi": "Turkish (Turkey)",
+        "capital": {
+            "name": "Istanbul",
+            "latitude": 41.015137,
+            "longitude": 28.979530
+        }
+    },
+    {
+        "locale_key": "es_PY",
+        "Marathi": "Spanish (Paraguay)",
+        "capital": {
+            "name": "Aregua",
+            "latitude": -25.302309,
+            "longitude": -57.411827
+        }
+    },
+    {
+        "locale_key": "tzm_Latn_MA",
+        "Marathi": "Central Morocco Tamazight (Latin, Morocco)",
+        "capital": {
+            "name": "Rabat",
+            "latitude": 34.020882,
+            "longitude": -6.841650
+        }
+    },
+    {
+        "locale_key": "lg",
+        "Marathi": "Ganda",
+        "capital": {
+            "name": "Kampala",
+            "latitude": 0.347596,
+            "longitude": 32.582520
+        }
+    },
+    {
+        "locale_key": "ebu",
+        "Marathi": "Embu",
+        "capital": {
+            "name": "Kampala",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "en_HK",
+        "Marathi": "English (Hong Kong SAR China)",
+        "capital": {
+            "name": "Beijing",
+            "latitude": 39.916668,
+            "longitude": 116.383331
+        }
+    },
+    {
+        "locale_key": "nl_NL",
+        "Marathi": "Dutch (Netherlands)",
+        "capital": {
+            "name": "Amsterdam",
+            "latitude": 52.371807,
+            "longitude": 4.896029
+        }
+    },
+    {
+        "locale_key": "en_BE",
+        "Marathi": "English (Belgium)",
+        "capital": {
+            "name": "Brussels",
+            "latitude": 50.8504486,
+            "longitude": 4.3487802
+        }
+    },
+    {
+        "locale_key": "ms_MY",
+        "Marathi": "Malay (Malaysia)",
+        "capital": {
+            "name": "Kuala Lumpur",
+            "latitude": 3.1357,
+            "longitude": 101.688
+        }
+    },
+    {
+        "locale_key": "es_UY",
+        "Marathi": "Spanish (Uruguay)",
+        "capital": {
+            "name": "Montevideo",
+            "latitude": -34.901112,
+            "longitude": -56.164532
+        }
+    },
+    {
+        "locale_key": "ar_BH",
+        "Marathi": "Arabic (Bahrain)",
+        "capital": {
+            "name": "Mina Salman",
+            "latitude": 26.201000,
+            "longitude": 50.606998
+        }
+    },
+    {
+        "locale_key": "kw_GB",
+        "Marathi": "Cornish (United Kingdom)",
+        "capital": {
+            "name": "Truro",
+            "latitude": 50.26526,
+            "longitude": -5.05436
+        }
+    },
+    {
+        "locale_key": "ak",
+        "Marathi": "Akan",
+        "capital": {
+            "name": "Accra",
+            "latitude": 5.550000,
+            "longitude": -0.020000
+        }
+    },
+    {
+        "locale_key": "chr",
+        "Marathi": "Cherokee",
+        "capital": {
+            "name": "Washington",
+            "latitude": 38.889248,
+            "longitude": -77.050636
+        }
+    },
+    {
+        "locale_key": "dav",
+        "Marathi": "Taita",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "lag_TZ",
+        "Marathi": "Langi (Tanzania)",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "am",
+        "Marathi": "Amharic",
+        "capital": {
+            "name": "Amhara",
+            "latitude": 11.663240,
+            "longitude": 37.821903
+        }
+    },
+    {
+        "locale_key": "so_DJ",
+        "Marathi": "Somali (Djibouti)",
+        "capital": {
+            "name": "Mogadishu",
+            "latitude": 2.046934,
+            "longitude": 45.318161
+        }
+    },
+    {
+        "locale_key": "shi_Tfng_MA",
+        "Marathi": "Tachelhit (Tifinagh, Morocco)",
+        "capital": {
+            "name": "Rabat",
+            "latitude": 34.020882,
+            "longitude": -6.841650
+        }
+    },
+    {
+        "locale_key": "sr_Latn_ME",
+        "Marathi": "Serbian (Latin, Montenegro)",
+        "capital": {
+            "name": "Podgorica",
+            "latitude": 42.442574,
+            "longitude": 19.268646
+        }
+    },
+    {
+        "locale_key": "sn_ZW",
+        "Marathi": "Shona (Zimbabwe)",
+        "capital": {
+            "name": "Harare",
+            "latitude": -17.824858,
+            "longitude": 31.053028
+        }
+    },
+    {
+        "locale_key": "or_IN",
+        "Marathi": "Oriya (India)",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.644800,
+            "longitude": 77.216721
+        }
+    },
+    {
+        "locale_key": "ar",
+        "Marathi": "Arabic",
+        "capital": {
+            "name": "Riyadh",
+            "latitude": 24.774265,
+            "longitude": 46.738586
+        }
+    },
+    {
+        "locale_key": "as",
+        "Marathi": "Assamese",
+        "capital": {
+            "name": "Guwahati",
+            "latitude": 26.148043,
+            "longitude": 91.731377
+        }
+    },
+    {
+        "locale_key": "fr_BI",
+        "Marathi": "French (Burundi)",
+        "capital": {
+            "name": "Bujumbura",
+            "latitude": -3.361260,
+            "longitude": 29.347916
+        }
+    },
+    {
+        "locale_key": "jmc_TZ",
+        "Marathi": "Machame (Tanzania)",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "chr_US",
+        "Marathi": "Cherokee (United States)",
+        "capital": {
+            "name": "Washington",
+            "latitude": 38.889248,
+            "longitude": -77.050636
+        }
+    },
+    {
+        "locale_key": "eu_ES",
+        "Marathi": "Basque (Spain)",
+        "capital": {
+            "name": "Bilbao",
+            "latitude": 43.262985,
+            "longitude": -2.935013
+        }
+    },
+    {
+        "locale_key": "saq_KE",
+        "Marathi": "Samburu (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "vun",
+        "Marathi": "Vunjo",
+        "capital": {
+            "name": "Dar es Salaam",
+            "latitude": -6.802353,
+            "longitude": 39.279556
+        }
+    },
+    {
+        "locale_key": "lt",
+        "Marathi": "Lithuanian",
+        "capital": {
+            "name": "Vilnius",
+            "latitude": 54.687157,
+            "longitude": 25.279652
+        }
+    },
+    {
+        "locale_key": "naq_NA",
+        "Marathi": "Nama (Namibia)",
+        "capital": {
+            "name": "Windhoek",
+            "latitude": -22.55941,
+            "longitude": 17.08323
+        }
+    },
+    {
+        "locale_key": "ga",
+        "Marathi": "Irish",
+        "capital": {
+            "name": "Dublin",
+            "latitude": 53.350140,
+            "longitude": -6.266155
+        }
+    },
+    {
+        "locale_key": "af_NA",
+        "Marathi": "Afrikaans (Namibia)",
+        "capital": {
+            "name": "Windhoek",
+            "latitude": -22.55941,
+            "longitude": 17.08323
+        }
+    },
+    {
+        "locale_key": "kea_CV",
+        "Marathi": "Kabuverdianu (Cape Verde)",
+        "capital": {
+            "name": "Boa Vista",
+            "latitude": 16.095011,
+            "longitude": -22.807835
+        }
+    },
+    {
+        "locale_key": "es_DO",
+        "Marathi": "Spanish (Dominican Republic)",
+        "capital": {
+            "name": "Santo Domingo",
+            "latitude": 18.483402,
+            "longitude": -69.929611
+        }
+    },
+    {
+        "locale_key": "lv",
+        "Marathi": "Latvian",
+        "capital": {
+            "name": "Riga",
+            "latitude": 56.946285,
+            "longitude": 24.105078
+        }
+    },
+    {
+        "locale_key": "kok_IN",
+        "Marathi": "Konkani (India)",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.644800,
+            "longitude": 77.216721
+        }
+    },
+    {
+        "locale_key": "de_LI",
+        "Marathi": "German (Liechtenstein)",
+        "capital": {
+            "name": "Liechtenstein",
+            "latitude": 47.1594184,
+            "longitude": 9.553635
+        }
+    },
+    {
+        "locale_key": "fr_BJ",
+        "Marathi": "French (Benin)",
+        "capital": {
+            "name": "Benin",
+            "latitude": 9.3217214,
+            "longitude": 2.3100051
+        }
+    },
+    {
+        "locale_key": "az",
+        "Marathi": "Azerbaijani",
+        "capital": {
+            "name": "Baku",
+            "latitude": 40.409264,
+            "longitude": 49.867092
+        }
+    },
+    {
+        "locale_key": "guz_KE",
+        "Marathi": "Gusii (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "rw_RW",
+        "Marathi": "Kinyarwanda (Rwanda)",
+        "capital": {
+            "name": "Kacyiru",
+            "latitude": -1.935114,
+            "longitude": 30.082111
+        }
+    },
+    {
+        "locale_key": "mg_MG",
+        "Marathi": "Malagasy (Madagascar)",
+        "capital": {
+            "name": "Antananarivo",
+            "latitude": -18.9333296,
+            "longitude": 47.5166646
+        }
+    },
+    {
+        "locale_key": "km_KH",
+        "Marathi": "Khmer (Cambodia)",
+        "capital": {
+            "name": "Phnom Penh",
+            "latitude": 11.562108,
+            "longitude": 104.888535
+        }
+    },
+    {
+        "locale_key": "gl",
+        "Marathi": "Galician",
+        "capital": {
+            "name": "Lugo",
+            "latitude": 43.016666,
+            "longitude": -7.550000
+        }
+    },
+    {
+        "locale_key": "shi_Tfng",
+        "Marathi": "Tachelhit (Tifinagh)",
+        "capital": {
+            "name": "Colombo",
+            "latitude": 6.927079,
+            "longitude": 79.861244
+        }
+    },
+    {
+        "locale_key": "ar_AE",
+        "Marathi": "Arabic (United Arab Emirates)",
+        "capital": {
+            "name": "Abu Dhabi",
+            "latitude": 24.466667,
+            "longitude": 54.366669
+        }
+    },
+    {
+        "locale_key": "fr_MQ",
+        "Marathi": "French (Martinique)",
+        "capital": {
+            "name": "Fort-de-France",
+            "latitude": 14.600000,
+            "longitude": -61.083302
+        }
+    },
+    {
+        "locale_key": "rm",
+        "Marathi": "Romansh",
+        "capital": {
+            "name": "Geneva",
+            "latitude": 46.204391,
+            "longitude": 6.143158
+        }
+    },
+    {
+        "locale_key": "sv_SE",
+        "Marathi": "Swedish (Sweden)",
+        "capital": {
+            "name": "Stockholm",
+            "latitude": 59.334591,
+            "longitude": 18.063240
+        }
+    },
+    {
+        "locale_key": "az_Cyrl",
+        "Marathi": "Azerbaijani (Cyrillic)",
+        "capital": {
+            "name": "Baku",
+            "latitude": 40.409264,
+            "longitude": 49.867092
+        }
+    },
+    {
+        "locale_key": "ro",
+        "Marathi": "Romanian",
+        "capital": {
+            "name": "Bucharest",
+            "latitude": 44.439663,
+            "longitude": 26.096306
+        }
+    },
+    {
+        "locale_key": "so_ET",
+        "Marathi": "Somali (Ethiopia)",
+        "capital": {
+            "name": "Addis Ababa",
+            "latitude": 9.005401,
+            "longitude": 38.763611
+        }
+    },
+    {
+        "locale_key": "en_ZA",
+        "Marathi": "English (South Africa)",
+        "capital": {
+            "name": "Cape Town",
+            "latitude": -33.918861,
+            "longitude": 18.423300
+        }
+    },
+    {
+        "locale_key": "ii_CN",
+        "Marathi": "Sichuan Yi (China)",
+        "capital": {
+            "name": "Beijing",
+            "latitude": 39.916668,
+            "longitude": 116.383331
+        }
+    },
+    {
+        "locale_key": "fr_BL",
+        "Marathi": "French (Saint Barthélemy)",
+        "capital": {
+            "name": "Gustavia",
+            "latitude": 17.89618,
+            "longitude": -62.84978
+        }
+    },
+    {
+        "locale_key": "hi_IN",
+        "Marathi": "Hindi (India)",
+        "capital": {
+            "name": "New Delhi",
+            "latitude": 28.644800,
+            "longitude": 77.216721
+        }
+    },
+    {
+        "locale_key": "gu",
+        "Marathi": "Gujarati",
+        "capital": {
+            "name": "Gandhinagar",
+            "latitude": 23.237560,
+            "longitude": 72.647781
+        }
+    },
+    {
+        "locale_key": "mer_KE",
+        "Marathi": "Meru (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    },
+    {
+        "locale_key": "nn_NO",
+        "Marathi": "Norwegian Nynorsk (Norway)",
+        "capital": {
+            "name": "Oslo",
+            "latitude": 59.911491,
+            "longitude": 10.757933
+        }
+    },
+    {
+        "locale_key": "gv",
+        "Marathi": "Manx",
+        "capital": {
+            "name": "Douglas",
+            "latitude": 54.15,
+            "longitude": -4.48333
+        }
+    },
+    {
+        "locale_key": "ru",
+        "Marathi": "Russian",
+        "capital": {
+            "name": "Moscow",
+            "latitude": 55.751244,
+            "longitude": 37.618423
+        }
+    },
+    {
+        "locale_key": "ar_DZ",
+        "Marathi": "Arabic (Algeria)",
+        "capital": {
+            "name": "Algiers",
+            "latitude": 36.737232,
+            "longitude": 3.086472
+        }
+    },
+    {
+        "locale_key": "ar_SY",
+        "Marathi": "Arabic (Syria)",
+        "capital": {
+            "name": "Damascus",
+            "latitude": 33.510414,
+            "longitude": 36.278336
+        }
+    },
+    {
+        "locale_key": "en_MP",
+        "Marathi": "English (Northern Mariana Islands)",
+        "capital": {
+            "name": "Saipan",
+            "latitude": 15.183333,
+            "longitude": 145.750000
+        }
+    },
+    {
+        "locale_key": "nl_BE",
+        "Marathi": "Dutch (Belgium)",
+        "capital": {
+            "name": "Brussels",
+            "latitude": 50.8504486,
+            "longitude": 4.3487802
+        }
+    },
+    {
+        "locale_key": "rw",
+        "Marathi": "Kinyarwanda",
+        "capital": {
+            "name": "Kigali",
+            "latitude": -1.94995,
+            "longitude": 30.05885
+        }
+    },
+    {
+        "locale_key": "be",
+        "Marathi": "Belarusian",
+        "capital": {
+            "name": "Minsk",
+            "latitude": 53.893009,
+            "longitude": 27.567444
+        }
+    },
+    {
+        "locale_key": "en_VI",
+        "Marathi": "English (U.S. Virgin Islands)",
+        "capital": {
+            "name": "Charlotte Amalie",
+            "latitude": 18.3418999,
+            "longitude": -64.9307022
+        }
+    },
+    {
+        "locale_key": "es_CL",
+        "Marathi": "Spanish (Chile)",
+        "capital": {
+            "name": "Santiago",
+            "latitude": -33.459229,
+            "longitude": -70.645348
+        }
+    },
+    {
+        "locale_key": "bg",
+        "Marathi": "Bulgarian",
+        "capital": {
+            "name": "Sofia",
+            "latitude": 42.698334,
+            "longitude": 23.319941
+        }
+    },
+    {
+        "locale_key": "mg",
+        "Marathi": "Malagasy",
+        "capital": {
+            "name": "Antananarivo",
+            "latitude": -18.9333296,
+            "longitude": 47.5166646
+        }
+    },
+    {
+        "locale_key": "hy_AM",
+        "Marathi": "Armenian (Armenia)",
+        "capital": {
+            "name": "Yerevan",
+            "latitude": 40.177200,
+            "longitude": 44.503490
+        }
+    },
+    {
+        "locale_key": "zu_ZA",
+        "Marathi": "Zulu (South Africa)",
+        "capital": {
+            "name": "Cape Town",
+            "latitude": -33.918861,
+            "longitude": 18.423300
+        }
+    },
+    {
+        "locale_key": "guz",
+        "Marathi": "Gusii",
+        "capital": {
+            "name": "Kisii",
+            "latitude": -0.680482,
+            "longitude": 34.777061
+        }
+    },
+    {
+        "locale_key": "mk",
+        "Marathi": "Macedonian",
+        "capital": {
+            "name": "Skopje",
+            "latitude": 41.99646,
+            "longitude": 21.43141
+        }
+    },
+    {
+        "locale_key": "es_VE",
+        "Marathi": "Spanish (Venezuela)",
+        "capital": {
+            "name": "Caracas",
+            "latitude": 10.4880104,
+            "longitude": -66.8791885
+        }
+    },
+    {
+        "locale_key": "ml",
+        "Marathi": "Malayalam",
+        "capital": {
+            "name": "Thiruvananthapuram",
+            "latitude": 8.4855,
+            "longitude": 76.94924
+        }
+    },
+    {
+        "locale_key": "bm",
+        "Marathi": "Bambara",
+        "capital": {
+            "name": "Bamako",
+            "latitude": 12.65,
+            "longitude": -8.0
+        }
+    },
+    {
+        "locale_key": "khq_ML",
+        "Marathi": "Koyra Chiini (Mali)",
+        "capital": {
+            "name": "Bamako",
+            "latitude": 12.65,
+            "longitude": -8.0
+        }
+    },
+    {
+        "locale_key": "bn",
+        "Marathi": "Bengali",
+        "capital": {
+            "name": "Kolkata",
+            "latitude": 22.56263,
+            "longitude": 88.36304
+        }
+    },
+    {
+        "locale_key": "ps_AF",
+        "Marathi": "Pashto (Afghanistan)",
+        "capital": {
+            "name": "Kabul",
+            "latitude": 34.543896,
+            "longitude": 69.160652
+        }
+    },
+    {
+        "locale_key": "so_SO",
+        "Marathi": "Somali (Somalia)",
+        "capital": {
+            "name": "Mogadishu",
+            "latitude": 2.046934,
+            "longitude": 45.318161
+        }
+    },
+    {
+        "locale_key": "sr_Cyrl",
+        "Marathi": "Serbian (Cyrillic)",
+        "capital": {
+            "name": "Belgrade",
+            "latitude": 44.787197,
+            "longitude": 20.457273
+        }
+    },
+    {
+        "locale_key": "pl_PL",
+        "Marathi": "Polish (Poland)",
+        "capital": {
+            "name": "Warsaw",
+            "latitude": 52.237049,
+            "longitude": 21.017532
+        }
+    },
+    {
+        "locale_key": "fr_GN",
+        "Marathi": "French (Guinea)",
+        "capital": {
+            "name": "Conakry",
+            "latitude": 9.509167,
+            "longitude": -13.712222
+        }
+    },
+    {
+        "locale_key": "bo",
+        "Marathi": "Tibetan",
+        "capital": {
+            "name": "Lhasa",
+            "latitude": 29.652491,
+            "longitude": 91.172112
+        }
+    },
+    {
+        "locale_key": "om_KE",
+        "Marathi": "Oromo (Kenya)",
+        "capital": {
+            "name": "Nairobi",
+            "latitude": -1.286389,
+            "longitude": 36.817223
+        }
+    }
+]
